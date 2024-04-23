@@ -1,5 +1,5 @@
 
-[![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)]
+
 <h1 align="center">Hi 👋, I'm Tom Nelson Tembo</h1>
 <h3 align="center">I am a passionate Informatics student at the Czech University of Life Sciences,and an aspiring Software Engineer eager to explore the fascinating world of technology and cloud computing and Artificial Intelligence.</h3>
 <img align="right" alt="golang" width="400" src="https://miro.medium.com/v2/resize:fit:500/format:webp/1*lSUb1T4YW1td0UskwsGZ1w.gif">
