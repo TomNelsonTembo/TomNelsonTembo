@@ -3,7 +3,7 @@
 <h1 align="left">Hi 👋, I'm Tom Nelson Tembo</h1>
 <h3 align="left">I am a passionate Informatics student at the Czech University of Life Sciences, an Intern Software Engineer at HERE Technologies eager to explore the fascinating world of new technology such as cloud computing and Artificial Intelligence.</h3>
 <img align="right" alt="golang" width="300" src="https://miro.medium.com/v2/resize:fit:500/format:webp/1*lSUb1T4YW1td0UskwsGZ1w.gif">
-- 🔭 I’m currently Researching on Ways on Optimizing Cloud Based Machine learning Models for low latency applications for my Thesis(https://github.com/TomNelsonTembo/lang_Detection-model)
+- 🔭 I’m currently Researching on Ways on Optimizing Cloud Based Machine learning Models for low latency applications for my Thesis
 
 - 🌱 I’m currently learning **Neural Networks** and **Open Source**
 
