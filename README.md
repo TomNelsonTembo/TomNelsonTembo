@@ -6,7 +6,7 @@
 I build secure, automated software delivery pipelines and cloud-native infrastructure. Currently working as a Technical Solutions Engineer at Expedia Group, with prior experience in site reliability engineering at Red Hat and DevOps automation at HERE Technologies.
 
 - 🔐 Focused on **DevSecOps** — embedding security controls into CI/CD pipelines and cloud infrastructure
-- 🛠️ Building **[Mainza Technologies](https://github.com/)** — a white-label transport SaaS platform on Go microservices, Kubernetes, and Jenkins
+- 🛠️ Building White-label transport SaaS platform on Go microservices, Kubernetes, and Jenkins
 - ☁️ Working across **AWS, Azure, and OpenShift** environments
 - 🎓 BSc Informatics — Czech University of Life Sciences Prague
 - 📫 Reach me at **neltembo2002@gmail.com**
