@@ -1,5 +1,5 @@
 <h1 align="left">Tom Nelson Tembo</h1>
-<h3 align="left">DevSecOps Engineer · Cloud Infrastructure · Prague</h3>
+<h3 align="left">Engineer · Cloud Infrastructure · Prague</h3>
 
 <img align="right" alt="coding" width="280" src="https://miro.medium.com/v2/resize:fit:500/format:webp/1*lSUb1T4YW1td0UskwsGZ1w.gif">
 
