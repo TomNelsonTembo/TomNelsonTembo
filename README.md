@@ -1,15 +1,15 @@
 <h1 align="left">Tom Nelson Tembo</h1>
-<h3 align="left">Engineer · Cloud Infrastructure · Prague</h3>
+<h3 align="left">Software Engineer · Cloud Infrastructure · Prague</h3>
 
 <img align="right" alt="coding" width="280" src="https://miro.medium.com/v2/resize:fit:500/format:webp/1*lSUb1T4YW1td0UskwsGZ1w.gif">
 
-I build secure, automated software delivery pipelines and cloud-native infrastructure. Currently working as a Technical Solutions Engineer at Expedia Group, with prior experience in site reliability engineering at Red Hat and DevOps automation at HERE Technologies.
+I build and operate cloud-native systems — from backend services and automation pipelines to distributed infrastructure. Currently a Technical Solutions Engineer at Expedia Group, with prior experience in site reliability engineering at Red Hat and process automation at HERE Technologies.
 
-- 🔐 Focused on **DevSecOps** — embedding security controls into CI/CD pipelines and cloud infrastructure
-- 🛠️ Building White-label transport SaaS platform on Go microservices, Kubernetes, and Jenkins
-- ☁️ Working across **AWS, Azure, and OpenShift** environments
-- 🎓 BSc Informatics — Czech University of Life Sciences Prague
-- 📫 Reach me at **neltembo2002@gmail.com**
+- 🚀 Currently building SaaS platform on Go microservices, Kubernetes, and Jenkins
+- ☁️ Working across **AWS, Azure, and OpenShift** environments  
+- 🛠️ Interested in **backend engineering, cloud infrastructure, and automation**
+- 🎓 BSc Informatics — Czech University of Life Sciences Prague  
+- 📫 **neltembo2002@gmail.com**
 - 🌍 Prague, Czech Republic
 
 ---
@@ -30,13 +30,13 @@ I build secure, automated software delivery pipelines and cloud-native infrastru
 **Languages & Scripting**
 `Go` `Python` `Bash` `PowerShell`
 
-**CI/CD & DevSecOps**
+**Infrastructure & CI/CD**
 `GitLab CI/CD` `Jenkins` `GitHub Actions` `Docker` `Kubernetes` `OpenShift` `Helm`
 
 **Cloud & Observability**
 `AWS` `Azure` `Grafana` `CloudTrail` `Kafka`
 
-**Data & ML (academic)**
+**Data & ML**
 `PyTorch` `TensorFlow` `scikit-learn` `pandas`
 
 **Tools**
